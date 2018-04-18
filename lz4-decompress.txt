@@ -1,0 +1,12 @@
+*******************************
+INFO:
+*******************************
+This tool decompress files which use lz4 compression method.
+for example : stock rom of SM-N950F
+
+*******************************
+How To Use ?
+*******************************
+1) uninstall 7-zip if you have.
+2) install 7z-zstd-x64.exe
+3) After installation extract lz4 compressed file by 7-zip standard.

@@ -1,0 +1,12 @@
+How To Use ?
+*******************************
+Step 0: place the system image in input folder and rename it to system.img
+
+Step 1: Run System-Unpacker.exe
+
+
+********************************
+Now enjoy !
+Hit thanks in XDA
+
+
