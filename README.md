@@ -10,11 +10,11 @@ What operations can it perform ?
 Python was required for initial builds but now this is not required as the python source files are precompiled to avoid this dependency.
 
 #### These tools:
-1. Decrypt Google's new Brotli Encryption and convert system.new.dat.br to system.new.dat (more on [Brotli Encryption](https://en.wikipedia.org/wiki/Brotli))
+1. Decrypt Google's new Brotli Encryption and convert system.new.dat.br to system.new.dat (know more on [Brotli Encryption](https://en.wikipedia.org/wiki/Brotli))
 2. Convert system.new.dat to system image(ext4)
 3. Extract system folder directly from system.new.dat with the help of system.transfer.list
 4. Unpack system folder & fils from system.img(etx4)
-5. The modified 7-zip can decompress the lz4 compression algorithm(git repo of [Lz4](https://github.com/lz4/lz4/))
+5. The modified 7-zip can decompress the lz4 compression algorithm (git repo of [Lz4](https://github.com/lz4/lz4/))
 
 #### Upcoming tools:
 1. Will add Tool to convert Motorola stock firmware spilted system files(system.img_sparsechunk.x) to system.img(ext4) 
@@ -40,7 +40,7 @@ visit it in your leisure hours.There are some cool stuffs to get excited about.
 ### Special Thanks To
 - The opensource community
 - Google,microsoft,java,python,canonical,XDA,Github
-- xpirt,And_pda,lz4
+- xpirt,And_pda,lz4 and others
 
 ### Social Media
 
