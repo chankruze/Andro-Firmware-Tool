@@ -1,8 +1,9 @@
 # Andro-Tool
-All in one tool for android generic devices
+All in one tool for android generic devices' system folder and files extraction.
 
 ### About Tool
 This tool is dedicated for the extraction of system folder from various compression technologies.
+Works on windows.
 What operations can it perform ?
 
 #### This version:
@@ -17,6 +18,8 @@ What operations can it perform ?
 
 
 ### Join My Dev Community
+Join my telegram community to stick together & various discussion.
+
 **Official Telegram Group**
 
 [![Telegram Group](http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png)](https://goo.gl/iEFPAh)
