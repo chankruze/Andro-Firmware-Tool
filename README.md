@@ -31,3 +31,8 @@ Join my telegram community to stick together & various discussion.
 ### Visit My Website
 I have a official wordpress website named [GEEKOFIA](https://geekofia.wordpress.com).
 visit it in your leisure hours. 
+
+
+
+
+![Facebook Logo](/images/fbpage.png) ![Geekofia Logo](/images/geekofialogo.png)
