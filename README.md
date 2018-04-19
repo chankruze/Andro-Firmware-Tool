@@ -10,14 +10,14 @@ What operations can it perform ?
 Python was required for initial builds but now this is not required as the python source files are precompiled to avoid this dependency.
 
 #### These tools:
-1. Decrypt Google's new Brotli Encryption and convert system.new.dat.br to system.new.dat (know more on [Brotli Encryption](https://en.wikipedia.org/wiki/Brotli))
-2. Convert system.new.dat to system image(ext4)
-3. Extract system folder directly from system.new.dat with the help of system.transfer.list
-4. Unpack system folder & fils from system.img(etx4)
-5. The modified 7-zip can decompress the lz4 compression algorithm (git repo of [Lz4](https://github.com/lz4/lz4/))
+- Decrypt Google's new Brotli Encryption and convert system.new.dat.br to system.new.dat (know more on [Brotli Encryption](https://en.wikipedia.org/wiki/Brotli))
+- Convert system.new.dat to system image(ext4)
+- Extract system folder directly from system.new.dat with the help of system.transfer.list
+- Unpack system folder & fils from system.img(etx4)
+- The modified 7-zip can decompress the lz4 compression algorithm (git repo of [Lz4](https://github.com/lz4/lz4/))
 
 #### Upcoming tools:
-1. Will add Tool to convert Motorola stock firmware spilted system files(system.img_sparsechunk.x) to system.img(ext4) 
+- Will add Tool to convert Motorola stock firmware spilted system files(system.img_sparsechunk.x) to system.img(ext4) 
 
 ### How to use ?
 Usage of each tool is written in corressponding text file.
@@ -25,11 +25,11 @@ Usage of each tool is written in corressponding text file.
 ### Join My Dev Community
 Join my telegram community to stick together & various discussion.
 
-**Official Telegram Group**
+- **Official Telegram Group**
 
 [![Telegram Group](http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png)](https://goo.gl/iEFPAh)
 
-**Official Telegram Channel**
+- **Official Telegram Channel**
 
 [![Telegram Channel](http://icons.iconarchive.com/icons/froyoshark/enkel/128/Telegram-icon.png)](https://goo.gl/YaTQMi)
 
