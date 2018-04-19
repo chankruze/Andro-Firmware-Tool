@@ -6,13 +6,13 @@ This tool is dedicated for the extraction of system folder from various compress
 What operations can it perform ?
 
 #### This version:
-1. Decrypt Google's new Brotli Encryption (more on [Brotli](https://en.wikipedia.org/wiki/Brotli))
+1. Decrypt Google's new Brotli Encryption and convert system.new.dat.br to system.new.dat (more on [Brotli](https://en.wikipedia.org/wiki/Brotli))
 2. Convert system.new.dat to system image(ext4)
 3. Extract system folder directly from system.new.dat with the help of system.transfer.list
 4. Unpack system folder & fils from system.img(etx4)
 
 #### Upcoming :
-1. Will add Tool to convert Motorola stock firmware(system.img_sparsechunk.x) to system.img(ext4) 
+1. Will add Tool to convert Motorola stock firmware spilted system files(system.img_sparsechunk.x) to system.img(ext4) 
 
 
 
