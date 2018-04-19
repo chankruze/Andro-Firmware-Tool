@@ -35,4 +35,4 @@ visit it in your leisure hours.
 
 
 
-![Facebook Logo](/images/fbpage.png) ![Geekofia Logo](/images/geekofialogo.png)
+[![Facebook Logo](/tools/fblogo.png)](https://facebook.com/developerchandu) [![Geekofia Logo](/tools/geekofialogo.png)](https://geekofia.wordpress.com)
