@@ -15,7 +15,7 @@ All tools in one repo used for android generic devices' system folder and files 
 | SparseConverter	| Converts `system.img_sparsechunk.x` to `system.img`|[Here](/docs/SparseConverter.md)|
 
 ### How to use ?
-Usage of each tool is documented in [here](/docs) or can be found in the table above.
+Usage of each tool is documented in [here](https://github.com/chankruze/Andro-Firmware-Tool/tree/master/docs) or can be found in the table above.
 
 ### Official Website
 - Official domain : https://geekofia.in.
