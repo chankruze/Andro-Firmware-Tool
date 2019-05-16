@@ -5,6 +5,8 @@ All tools in one repo used for android generic devices' system folder and files 
 - Windows only
 
 ### What These Tools Do ?
+
+
 |  Tool Name | What They Do  |  Usage |
 |---|---|---|
 | Brotli-Decrypter  | Decrypt Brotli Encryption & convert `system.new.dat.br` to `system.new.dat`<br/>(know more on [Brotli Encryption](https://en.wikipedia.org/wiki/Brotli))  |[Here](/docs/Brotli-Decrypter.md)|
